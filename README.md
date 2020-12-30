@@ -15,7 +15,7 @@ Certification Exam preparation materials
 
 <li> Apply RNNs, GRUs, and LSTMs as you train them using text repositories. </li>
 
-Link to Program page: https://www.coursera.org/professional-certificates/tensorflow-in-practice
+<p> Link to Program page: https://www.coursera.org/professional-certificates/tensorflow-in-practice  </p>
 
 <h2> Repository contains mainly the Exercises and other useful Deep learning codes </h2>
 
