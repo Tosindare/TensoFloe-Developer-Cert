@@ -1,4 +1,4 @@
-# TensoFlow-Developer-Cert
+# TensorFlow-Developer-Cert
 Certification Exam preparation materials
 
 <p>  This is a repository of the material used(main) for preparing for the Tensorflow DEveloper Certification Exam. It is primaririly the exercises and task of the Cousera's DeepLearning.AI TensorFlow Developer Professional Certificate Program.</p>
